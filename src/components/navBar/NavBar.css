@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body {
+font-family: montserrat;
+}
+nav{
+    background-color: #219ebc;
+    height: 5rem;
+    width: 100%;
+    
+}
+/* label.logo{
+    color: white;
+    font-size: 2.1rem;
+    line-height: 5rem;
+    padding: 0 6.1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+nav ul {
+    float: left;
+    margin-right: 1.1rem;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 5rem;
+    margin: 0 0.4rem;
+}
+nav ul li a {
+    color: white;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    padding: 1.1rem 0.8rem;
+    border-radius: 0.3rem;
+}
+a.active,a:hover{
+    background-color: #1b9bff;
+    transition: .5s;
+}

@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.footer {
+  height: 5.31rem;
+  background-color: black;
+  color: white;
+}
+
+/*
+.footer-icons{
+    display: flex;
+    justify-content: center;
+
+}
+.fb-icon{
+display: flex;
+}
+.insta-icon{
+    display: flex;
+    margin-left: 1rem;
+}
+.headicon{
+    display: flex;
+}
+.headicon-bottom{
+    float: left;
+}
+.paymentIcon{
+    display: flex;
+}
+.mainpay{
+    float: left;
+}
+.thirdCol{
+    float: left;
+}
+.thirdCol ul li{
+    text-decoration: none;
+    list-style: none;
+} */
